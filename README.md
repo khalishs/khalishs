@@ -1,106 +1,199 @@
-<h1 align="center">Hi there, I'm Khalish 👋</h1>
-<h3 align="center">UI/UX Designer • Front-End Enthusiast • Software Engineering Student</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Designing+intuitive+digital+experiences;UI%2FUX+Designer+based+in+Bandung%2C+Indonesia;Turning+ideas+into+beautiful%2C+functional+interfaces;Currently+studying+Software+Engineering+%40+Telkom+University" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:FF6584&height=220&section=header&text=Hi%20There,%20I'm%20Khalish%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=UI/UX%20Designer%20%E2%80%A2%20Crafting%20intuitive%20digital%20experiences&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
+<img src="https://portfolio-khalishtiantow.netlify.app/images/profile.png" width="150" style="border-radius:50%; border:4px solid #6C63FF;" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=UI%2FUX+Designer+based+in+Bandung%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Merancang+solusi+digital+yang+intuitif+%26+fungsional;15%2B+kompetisi+desain+%26+teknologi+diikuti;Currently+exploring+AI+Agent+%26+LLM-powered+products" alt="Typing SVG" />
+
+<p>
   <a href="https://portfolio-khalishtiantow.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=netlify&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/khalish-tianto-b54565218/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:khalishtianto.w@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://wa.me/628159646281"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
----
+<img src="https://komarev.com/ghpvc/?username=khalishs&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="profile views" />
 
-### 🧑‍💻 About Me
+</div>
 
-- 🎨 UI/UX Designer yang fokus merancang solusi digital yang **fungsional, intuitif, dan indah secara visual**
-- 🎓 Mahasiswa **S1 Rekayasa Perangkat Lunak**, Universitas Telkom Bandung (2023 — sekarang)
-- 🏆 Aktif mengikuti **15+ kompetisi** desain & teknologi
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:FF6584&height=3&width=100%25" width="100%"/>
+
+## 🧑‍🎨 Tentang Saya
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+Seorang **UI/UX Designer** berbasis di Bandung, Indonesia, dengan *passion* mendalam dalam menciptakan produk digital yang tidak hanya fungsional, tetapi juga indah secara visual dan intuitif bagi pengguna.
+
+> *"Before working to design the thing right, we must first be sure we're designing the right thing."*
+> — Peter Morville
+
+- 🎓 Mahasiswa **S1 Rekayasa Perangkat Lunak**, Universitas Telkom Bandung *(2023 — sekarang)*
+- 🏆 Aktif mengikuti **15+ kompetisi** desain & teknologi tingkat nasional
 - 🤖 Sedang mengeksplorasi **AI Agent** & pengembangan produk berbasis LLM
-- 📍 Berbasis di **Bandung, Indonesia** 🇮🇩
-- 💬 *"Learning never exhausts the mind."*
+- ✍️ Menulis buku *"12 Days"* tentang bahasa pemrograman Swift
+- 💡 Percaya teknologi terbaik adalah yang terasa **alami & transparan**
 
----
+</td>
+<td width="40%" valign="top">
 
-### 🛠️ Tools & Tech Stack
+```yaml
+Nama: Khalish Tianto Wiriadinata
+Peran: UI/UX Designer
+Lokasi: Bandung, Indonesia
+Fokus: Design · Empathy · Function
+Status: Open to collaborate 🚀
+```
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white" />
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:FF6584&height=3&width=100%25" width="100%"/>
+
+## 🛠️ Tools & Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma,xd,kotlin,androidstudio,laravel,php,cs&theme=dark" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangFlow-000000?style=flat-square&logo=langchain&logoColor=white" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:FF6584&height=3&width=100%25" width="100%"/>
 
-### 🚀 Featured Projects
+## 🚀 Proyek Unggulan
 
-| Proyek | Deskripsi Singkat | Stack |
-|---|---|---|
-| **MediPlants** — Website | Panduan tanaman obat & artikel kesehatan | HTML · CSS · JS · Figma |
-| **Water Health / Pure Hydro** — UI/UX | Solusi akses air bersih bekerja sama dengan PDAM | Figma |
-| **Sistem Etos Kerja Perusahaan** — Web & Mobile | Manajemen absensi, penggajian & kinerja karyawan | Laravel · PHP · C# ASP.NET · Firebase |
-| **Onboarding Buddy System** — AI Agent | Asisten onboarding berbasis LLM & vector database | LangFlow |
-| **Daily Dzikir & Doa** — Mobile App | Aplikasi doa & zikir harian | Kotlin · Android Studio |
+<table>
+<tr>
+<td width="50%">
 
-🔗 Lihat semua proyek di [portofolio saya](https://portfolio-khalishtiantow.netlify.app/#projects)
+### 🌿 MediPlants
+Website panduan tanaman obat & artikel kesehatan.
+`HTML` `CSS` `JS` `Figma`
 
----
+</td>
+<td width="50%">
 
-### 🎓 Education
+### 💧 Water Health / Pure Hydro
+Solusi digital akses air bersih bersama PDAM setempat.
+`Figma`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏢 Sistem Etos Kerja Perusahaan
+Web & mobile app manajemen absensi, gaji, dan kinerja karyawan.
+`Laravel` `PHP` `C# ASP.NET` `Firebase`
+
+</td>
+<td width="50%">
+
+### 🤖 Onboarding Buddy System
+AI Agent onboarding karyawan baru berbasis LLM & vector database.
+`LangFlow`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🕌 Daily Dzikir & Doa
+Mobile app zikir & doa harian dengan UI yang tenang dan personal.
+`Kotlin` `Android Studio`
+
+</td>
+<td width="50%">
+
+### 🎬 Movie Ticketing App
+Beli tiket bioskop online tanpa antre panjang.
+`Figma`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**+ banyak lagi proyek lainnya →** [Lihat portofolio lengkap ↗](https://portfolio-khalishtiantow.netlify.app/#projects)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:FF6584&height=3&width=100%25" width="100%"/>
+
+## 🎓 Perjalanan Pendidikan
 
 ```
-2023 – Now     S1 Rekayasa Perangkat Lunak — Universitas Telkom Bandung
-2020 – 2023    Rekayasa Perangkat Lunak — SMK IDN Boarding School (lulusan terbaik)
+2023 ─── Sekarang    S1 Rekayasa Perangkat Lunak
+                     Universitas Telkom Bandung
+                     └─ UI/UX Design · Software Engineering
+
+2020 ─── 2023        Rekayasa Perangkat Lunak
+                     SMK IDN Boarding School
+                     └─ Lulusan terbaik · Juara LKS tingkat kota
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:FF6584&height=3&width=100%25" width="100%"/>
 
-### 🏅 Certificates & Achievements
+## 🏅 Sertifikat & Pencapaian
 
-- ☁️ Memulai Pemrograman dengan Swift — Dicoding (2021)
-- ⬡ Web Development Competition — IDN IT Fest (2021)
-- ◈ Kitcom Fest Competition — Kitcom Fest (2021)
-- ▣ Kursus SQL — Progate (2021)
-- ✦ HTML Course — Sololearn (2021)
-- ◎ Intelligent by Design: Build an AI Agent — IBM SkillsBuild (2026)
+<div align="center">
 
----
+| Sertifikat | Penyelenggara | Tahun |
+|:--|:--|:--:|
+| ☁️ Memulai Pemrograman dengan Swift | Dicoding | 2021 |
+| ⬡ Web Development Competition | IDN IT Fest | 2021 |
+| ◈ Kitcom Fest Competition | Kitcom Fest | 2021 |
+| ▣ Kursus SQL | Progate | 2021 |
+| ✦ HTML Course | Sololearn | 2021 |
+| ◎ Intelligent by Design: Build an AI Agent | IBM SkillsBuild | 2026 |
 
-### 📊 GitHub Stats
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khalishs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalishs&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:FF6584&height=3&width=100%25" width="100%"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalishs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
+## 📊 GitHub Activity
 
----
+<div align="center">
 
-### 🤝 Let's Collaborate
+<img src="https://github-readme-stats.vercel.app/api?username=khalishs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=khalishs&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="165"/>
 
-Punya ide proyek menarik atau ingin berdiskusi peluang kerja sama? Saya selalu terbuka untuk percakapan baru!
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalishs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165"/>
 
-<p align="center">
-  <a href="mailto:khalishtianto.w@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/khalish-tianto-b54565218/">LinkedIn</a> ·
-  <a href="https://github.com/khalishs">GitHub</a> ·
-  <a href="https://wa.me/628159646281">WhatsApp</a> ·
-  <a href="https://portfolio-khalishtiantow.netlify.app/">Portfolio</a>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khalishs&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="90%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khalishs&label=Profile%20Views&color=6C63FF&style=flat" alt="profile views" />
-</p>
+<img src="https://github-readme-trophy.vercel.app/?username=khalishs&theme=tokyonight&no-frame=true&row=1&column=6" width="90%"/>
 
-<p align="center"><i>Dirancang & dibangun dengan ♥ — Bandung, Indonesia 🇮🇩</i></p>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:FF6584&height=3&width=100%25" width="100%"/>
+
+## 🤝 Mari Berkolaborasi
+
+<div align="center">
+
+Punya ide proyek menarik atau ingin berdiskusi peluang kerja sama?
+Saya selalu terbuka untuk percakapan baru! ✨
+
+<a href="mailto:khalishtianto.w@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/khalish-tianto-b54565218/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://wa.me/628159646281"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://portfolio-khalishtiantow.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+
+<br/><br/>
+<i>Dirancang & dibangun dengan ♥ — Bandung, Indonesia 🇮🇩</i>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6584,100:6C63FF&height=120&section=footer" width="100%"/>
