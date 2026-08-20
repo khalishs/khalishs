@@ -1,10 +1,18 @@
-<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=2,4,6,12,14&height=200&section=header&text=Khalish%20Tianto%20Wiriadinata&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=UI%2FUX%20Designer%20%E2%80%A2%20Bandung%2C%20Indonesia&descAlignY=65&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=260&section=header&text=Khalish%20Tianto%20Wiriadinata&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=UI%2FUX%20Designer%20%E2%80%A2%20Bandung%2C%20Indonesia%20%F0%9F%87%AE%F0%9F%87%A9&descAlignY=52&descSize=19" width="100%"/>
 
 <div align="center">
 
-![Static Badge](https://img.shields.io/badge/status-open_to_collaborate-1D4ED8?style=flat-square)
-![Static Badge](https://img.shields.io/badge/based_in-Bandung%2C_Indonesia-2563EB?style=flat-square)
-![Static Badge](https://img.shields.io/badge/focus-UI%2FUX_%7C_Front--End-3B82F6?style=flat-square)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2500&pause=800&color=1D4ED8&center=true&vCenter=true&width=650&lines=Designing+intuitive+digital+experiences;15%2B+kompetisi+desain+%26+teknologi+diikuti;Exploring+AI+Agent+%26+LLM-powered+products" alt="Typing SVG" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/status-open_to_collaborate-1D4ED8?style=for-the-badge&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/based_in-Bandung,_Indonesia-2563EB?style=for-the-badge&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/focus-UI%2FUX_|_Front--End-38BDF8?style=for-the-badge&labelColor=0F172A" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=khalishs&label=PROFILE+VIEWS&color=1D4ED8&style=for-the-badge&labelColor=0F172A" alt="profile views" />
 
 </div>
 
@@ -43,6 +51,15 @@ Saat ini sedang menempuh **S1 Rekayasa Perangkat Lunak** di Universitas Telkom B
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/15+-Kompetisi%20Diikuti-0F172A?style=for-the-badge&labelColor=1D4ED8" />
+<img src="https://img.shields.io/badge/3+-Tahun%20Pendidikan%20Tinggi-0F172A?style=for-the-badge&labelColor=2563EB" />
+<img src="https://img.shields.io/badge/11+-Proyek%20Selesai-0F172A?style=for-the-badge&labelColor=38BDF8" />
+<img src="https://img.shields.io/badge/6-Sertifikat-0F172A?style=for-the-badge&labelColor=0EA5E9" />
+
+</div>
 
 ---
 
@@ -181,10 +198,10 @@ Punya ide proyek menarik atau ingin berdiskusi peluang kerja sama? Saya selalu t
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-0EA5E9?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628159646281)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1E3A8A?style=for-the-badge&logo=netlify&logoColor=white)](https://portfolio-khalishtiantow.netlify.app/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=khalishs&label=PROFILE+VIEWS&color=1D4ED8&style=for-the-badge)
+<br/>
 
 <sub>Dirancang & dibangun dengan ♥ — Bandung, Indonesia 🇮🇩</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=14,12,6,4,2&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1D4ED8,100:0F172A&height=180&section=footer" width="100%"/>
