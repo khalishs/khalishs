@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:FF6584&height=220&section=header&text=Hi%20There,%20I'm%20Khalish%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=UI/UX%20Designer%20%E2%80%A2%20Crafting%20intuitive%20digital%20experiences&descAlignY=55&descSize=18" width="100%"/>
-
-<img src="https://portfolio-khalishtiantow.netlify.app/images/profile.png" width="150" style="border-radius:50%; border:4px solid #6C63FF;" />
-
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=UI%2FUX+Designer+based+in+Bandung%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Merancang+solusi+digital+yang+intuitif+%26+fungsional;15%2B+kompetisi+desain+%26+teknologi+diikuti;Currently+exploring+AI+Agent+%26+LLM-powered+products" alt="Typing SVG" />
