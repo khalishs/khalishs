@@ -2,22 +2,22 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Hi%20There,%20I'm%20Khalish%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=UI/UX%20Designer%20%E2%80%A2%20Crafting%20intuitive%20digital%20experiences&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://portfolio-khalishtiantow.netlify.app/images/profile.png" width="150" style="border-radius:50%; border:5px solid #FF6584;" />
+<img src="https://portfolio-khalishtiantow.netlify.app/images/profile.png" width="150" style="border-radius:50%; border:5px solid #38BDF8;" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=800&color=F72585&center=true&vCenter=true&width=650&lines=UI%2FUX+Designer+based+in+Bandung%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Merancang+solusi+digital+yang+intuitif+%26+fungsional;15%2B+kompetisi+desain+%26+teknologi+diikuti;Currently+exploring+AI+Agent+%26+LLM-powered+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=800&color=1D4ED8&center=true&vCenter=true&width=650&lines=UI%2FUX+Designer+based+in+Bandung%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Merancang+solusi+digital+yang+intuitif+%26+fungsional;15%2B+kompetisi+desain+%26+teknologi+diikuti;Currently+exploring+AI+Agent+%26+LLM-powered+products" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Portfolio-F72585?style=for-the-badge&logo=netlify&logoColor=white" />
-<img src="https://img.shields.io/badge/LinkedIn-4361EE?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src="https://img.shields.io/badge/Email-F77F00?style=for-the-badge&logo=gmail&logoColor=white" />
-<img src="https://img.shields.io/badge/WhatsApp-06D6A0?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-1D4ED8?style=for-the-badge&logo=netlify&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-60A5FA?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/WhatsApp-0EA5E9?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=khalishs&label=PROFILE+VIEWS&color=7209B7&style=for-the-badge" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=khalishs&label=PROFILE+VIEWS&color=3B82F6&style=for-the-badge" alt="profile views" />
 
 </div>
 
@@ -43,9 +43,9 @@ Seorang **UI/UX Designer** berbasis di Bandung, Indonesia, dengan *passion* mend
 </td>
 <td width="42%" valign="top">
 
-<img src="https://img.shields.io/badge/DESIGN-F72585?style=for-the-badge" width="100%"/>
-<img src="https://img.shields.io/badge/EMPATHY-7209B7?style=for-the-badge" width="100%"/>
-<img src="https://img.shields.io/badge/FUNCTION-4361EE?style=for-the-badge" width="100%"/>
+<img src="https://img.shields.io/badge/DESIGN-1D4ED8?style=for-the-badge" width="100%"/>
+<img src="https://img.shields.io/badge/EMPATHY-3B82F6?style=for-the-badge" width="100%"/>
+<img src="https://img.shields.io/badge/FUNCTION-60A5FA?style=for-the-badge" width="100%"/>
 
 <br/><br/>
 
@@ -72,7 +72,7 @@ Status  : Open to collaborate 🚀
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Miro-FFD02F?style=flat-square&logo=miro&logoColor=black" />
   <img src="https://img.shields.io/badge/LangFlow-FF4B4B?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20XD-FF26BE?style=flat-square&logo=adobexd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20XD-1E3A8A?style=flat-square&logo=adobexd&logoColor=white" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&width=100%25" width="100%"/>
@@ -84,7 +84,7 @@ Status  : Open to collaborate 🚀
 <td width="50%">
 
 ### 🌿 MediPlants
-<img src="https://img.shields.io/badge/Website-06D6A0?style=flat-square"/>
+<img src="https://img.shields.io/badge/Website-0EA5E9?style=flat-square"/>
 
 Panduan tanaman obat & artikel kesehatan.
 `HTML` `CSS` `JS` `Figma`
@@ -93,7 +93,7 @@ Panduan tanaman obat & artikel kesehatan.
 <td width="50%">
 
 ### 💧 Water Health / Pure Hydro
-<img src="https://img.shields.io/badge/UI%2FUX-4361EE?style=flat-square"/>
+<img src="https://img.shields.io/badge/UI%2FUX-60A5FA?style=flat-square"/>
 
 Solusi digital akses air bersih bersama PDAM setempat.
 `Figma`
@@ -104,7 +104,7 @@ Solusi digital akses air bersih bersama PDAM setempat.
 <td width="50%">
 
 ### 🏢 Sistem Etos Kerja Perusahaan
-<img src="https://img.shields.io/badge/Web%20%26%20Mobile-F72585?style=flat-square"/>
+<img src="https://img.shields.io/badge/Web%20%26%20Mobile-1D4ED8?style=flat-square"/>
 
 Manajemen absensi, gaji, dan kinerja karyawan.
 `Laravel` `PHP` `C# ASP.NET` `Firebase`
@@ -113,7 +113,7 @@ Manajemen absensi, gaji, dan kinerja karyawan.
 <td width="50%">
 
 ### 🤖 Onboarding Buddy System
-<img src="https://img.shields.io/badge/AI%20Agent-7209B7?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%20Agent-3B82F6?style=flat-square"/>
 
 Asisten onboarding karyawan baru berbasis LLM & vector database.
 `LangFlow`
@@ -124,7 +124,7 @@ Asisten onboarding karyawan baru berbasis LLM & vector database.
 <td width="50%">
 
 ### 🕌 Daily Dzikir & Doa
-<img src="https://img.shields.io/badge/Mobile%20App-F77F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Mobile%20App-2563EB?style=flat-square"/>
 
 Aplikasi zikir & doa harian dengan UI yang tenang.
 `Kotlin` `Android Studio`
@@ -133,7 +133,7 @@ Aplikasi zikir & doa harian dengan UI yang tenang.
 <td width="50%">
 
 ### 🎬 Movie Ticketing App
-<img src="https://img.shields.io/badge/UI%2FUX-06D6A0?style=flat-square"/>
+<img src="https://img.shields.io/badge/UI%2FUX-0EA5E9?style=flat-square"/>
 
 Beli tiket bioskop online tanpa antre panjang.
 `Figma`
@@ -154,8 +154,8 @@ Beli tiket bioskop online tanpa antre panjang.
 
 <table>
 <tr><th align="left">Tahun</th><th align="left">Jenjang</th><th align="left">Institusi</th></tr>
-<tr><td><img src="https://img.shields.io/badge/2023--Now-F72585?style=flat-square"/></td><td>S1 Rekayasa Perangkat Lunak</td><td>Universitas Telkom Bandung</td></tr>
-<tr><td><img src="https://img.shields.io/badge/2020--2023-4361EE?style=flat-square"/></td><td>Rekayasa Perangkat Lunak <sub>(lulusan terbaik)</sub></td><td>SMK IDN Boarding School</td></tr>
+<tr><td><img src="https://img.shields.io/badge/2023--Now-1D4ED8?style=flat-square"/></td><td>S1 Rekayasa Perangkat Lunak</td><td>Universitas Telkom Bandung</td></tr>
+<tr><td><img src="https://img.shields.io/badge/2020--2023-60A5FA?style=flat-square"/></td><td>Rekayasa Perangkat Lunak <sub>(lulusan terbaik)</sub></td><td>SMK IDN Boarding School</td></tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&width=100%25" width="100%"/>
@@ -181,12 +181,12 @@ Beli tiket bioskop online tanpa antre panjang.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=khalishs&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585&icon_color=4361EE&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=khalishs&theme=radical&hide_border=true&background=0D1117&ring=F72585&fire=F77F00" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=khalishs&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=1D4ED8&icon_color=60A5FA&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=khalishs&theme=radical&hide_border=true&background=0D1117&ring=1D4ED8&fire=2563EB" alt="GitHub Streak" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalishs&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalishs&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=1D4ED8" alt="Top Languages" height="165"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khalishs&theme=react-dark&hide_border=true&bg_color=0D1117&color=F72585&line=4361EE&point=06D6A0" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khalishs&theme=react-dark&hide_border=true&bg_color=0D1117&color=1D4ED8&line=60A5FA&point=0EA5E9" width="90%"/>
 
 <img src="https://github-readme-trophy.vercel.app/?username=khalishs&theme=radical&no-frame=true&row=1&column=6" width="90%"/>
 
@@ -201,10 +201,10 @@ Beli tiket bioskop online tanpa antre panjang.
 Punya ide proyek menarik atau ingin berdiskusi peluang kerja sama?
 Saya selalu terbuka untuk percakapan baru! ✨
 
-<a href="mailto:khalishtianto.w@gmail.com"><img src="https://img.shields.io/badge/Email-F77F00?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/khalish-tianto-b54565218/"><img src="https://img.shields.io/badge/LinkedIn-4361EE?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://wa.me/628159646281"><img src="https://img.shields.io/badge/WhatsApp-06D6A0?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="https://portfolio-khalishtiantow.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-F72585?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+<a href="mailto:khalishtianto.w@gmail.com"><img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/khalish-tianto-b54565218/"><img src="https://img.shields.io/badge/LinkedIn-60A5FA?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://wa.me/628159646281"><img src="https://img.shields.io/badge/WhatsApp-0EA5E9?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://portfolio-khalishtiantow.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-1D4ED8?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 
 <br/><br/>
 <i>Dirancang & dibangun dengan ♥ — Bandung, Indonesia 🇮🇩</i>
